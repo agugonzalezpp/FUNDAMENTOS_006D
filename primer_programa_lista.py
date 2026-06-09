@@ -49,6 +49,7 @@ while opcion != 4:
                       suma_nota += nota_suma
                       conta_nota += 1
                  print(f" El promedio del alumno {alumno[conta_alum]}, es {round(suma_nota/ conta_nota,1)}")     
+                 print(Suave)
 
 
             case 4:
